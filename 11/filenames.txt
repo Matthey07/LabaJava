@@ -1,0 +1,3 @@
+info.txt
+temps.txt
+nofile.txt
