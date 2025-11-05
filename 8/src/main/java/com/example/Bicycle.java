@@ -1,5 +1,5 @@
 package com.example;
-////sssssiaaa
+////ss
 public class Bicycle implements Vehicle {
     private String model;
 
