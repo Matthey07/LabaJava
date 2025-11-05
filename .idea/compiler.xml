@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="laba10" target="24" />
+      <module name="laba11" target="24" />
+      <module name="laba6" target="24" />
+      <module name="laba7" target="24" />
+      <module name="laba8" target="24" />
+      <module name="laba9" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
