@@ -1,5 +1,9 @@
 package com.example;
+<<<<<<< HEAD
 ////ss
+=======
+//
+>>>>>>> aaa
 public class Bicycle implements Vehicle {
     private String model;
 
